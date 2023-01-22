@@ -1,0 +1,15 @@
+before moving on, just delete every version of python you have on your windows computer. Search "add or remove programs" and it should come in settings. 
+
+I installed 3.9.2 cause i think some of my older projects need it, you dont have to install 3.9.2 but thats just what i did. 
+
+you can find it here https://www.python.org/downloads/release/python-392/
+
+click windows installer 64 bit? 
+
+after downloading and opening, in the python installer that comes up, make sure you check the box that says add to path. see attached image. (ignore the python version)
+
+go to command prompt. do python --version and see if it returns 3.9.2. if it does great, if not let me know. 
+
+if that works, try running pip install opencv-python
+
+if that suceeds, try the code that i attached. it should open your webcam and also have a weird thick line drawn on it lol.
