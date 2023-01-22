@@ -1,0 +1,5 @@
+axis of rotation for the bottom join to be 0,0
+moving left is positive x
+moving up is positive y 
+only restrict to commanded points within positive x and y
+assume vertical is 0 deg and moving clockwise is positive
